@@ -1,7 +1,7 @@
 tshn
 ====
 
-Top Stories of Hacker News in last 24 hours!
+Top Stories of Hacker News in the last 24 hours!
 
 Instructions
 ------------
